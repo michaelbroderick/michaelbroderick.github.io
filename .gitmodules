@@ -1,0 +1,3 @@
+[submodule "eSOAP"]
+	path = eSOAP
+	url = https://github.com/michaelbroderick/eSOAP
